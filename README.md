@@ -25,8 +25,6 @@ Here’s what it includes:
 
 Supabase is developer-friendly, works with SQL, and is designed to get projects up and running quickly without complex backend setup.
 
-This setup allows for a robust, efficient, and scalable chat experience suitable for growing user bases.
-
 
 
 ## LINKS 
